@@ -17,4 +17,6 @@ Soy Mexicano 🇲🇽 , tengo 23 años.
   
 # Mis redes sociales
 
-  [mybecons](beacons.page/bemg_develop)
+Si quieres conocerme mejor, sigueme en mis distintas redes sociales.
+
+  [Mis redes sociales](https://beacons.page/bemg_develop)
