@@ -1,9 +1,9 @@
 # Hola a todos, soy Brian Edrei. 🖖 
 ***
-Soy Ing. Sistemas de la Información y Comunicación. 👨‍💻, Mexicano 🇲🇽 , tengo 23 años.
+Soy Ing. Sistemas de la Información y Comunicación. 👨‍💻
 Vamos a Desarrollar algo nuevo.
 
-# habilidades .
+# habilidades 
 <ul>
  <li> php 📦 </li>
  <li> Html 💀 </li>
