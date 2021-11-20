@@ -1,8 +1,6 @@
-### Hola a todos 🙂
-
-Mi nombre es Brian Edrei , soy Ing. Sistemas de la Información y Comunicación. 👨‍💻
+# Hola a todos, soy Brian Edrei. 🖖 
 ***
-Soy Mexicano 🇲🇽 , tengo 23 años.
+Soy Ing. Sistemas de la Información y Comunicación. 👨‍💻, Mexicano 🇲🇽 , tengo 23 años.
 
 # habilidades .
 
@@ -19,4 +17,7 @@ Soy Mexicano 🇲🇽 , tengo 23 años.
 
 Si quieres conocerme mejor, sigueme en mis distintas redes sociales.
 
-  [Mis redes sociales](https://beacons.page/bemg_develop)
+  [Instagram](https://www.instagram.com/bemg_develop/?hl=es-la)
+  [Twitter](https://twitter.com/BemgDevelop)
+  [Linkedin](https://www.linkedin.com/in/brian-edrei-mart%C3%ADnez-garc%C3%ADa-4203311a1/)
+  [Youtube](https://www.youtube.com/channel/UC3kKfYQ3xQPVNSVOiidftcQ)
