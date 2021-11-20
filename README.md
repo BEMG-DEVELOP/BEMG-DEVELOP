@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola a todos 🙂
 
-<!--
-**BEMG-DEVELOP/BEMG-DEVELOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Brian Edrei , soy Ing. Sistemas de la Información y Comunicación. 👨‍💻
+Soy Mexicano 🇲🇽 , tengo 23 años.
 
-Here are some ideas to get you started:
+# habilidades .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  php 📦
+  Html 💀
+  css 🖌️
+  javascript 🏃‍♂️
+  c++ ⚔️
+  python 🐍
+  github
+  MySQL 🐬
+  
+
