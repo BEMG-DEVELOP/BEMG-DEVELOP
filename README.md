@@ -15,4 +15,6 @@ Soy Mexicano 🇲🇽 , tengo 23 años.
   github
   MySQL 🐬
   
+# Mis redes sociales
 
+  [mybecons](beacons.page/bemg_develop)
