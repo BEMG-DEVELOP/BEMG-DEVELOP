@@ -4,7 +4,7 @@
 
 ***
 <h2>Sobre mi</h2>
-Soy Ing. Sistemas de la Información y Comunicación. 👨‍💻
+Soy Ing. Sistemas de la Información y Comunicación. 👨‍💻  <br>
 Vamos a Desarrollar algo nuevo y dejar huella en el mundo.
 
 <h2>Habilidades</h2>
