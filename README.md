@@ -1,6 +1,6 @@
 <h1> Hola a todos, soy Brian Edrei. 🖖 </h1>
 
- <img src="https://instagram.ftlc1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/248439028_1337465993356769_1240898899502381446_n.jpg?_nc_ht=instagram.ftlc1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=x86AOR9b1LYAX88lhvc&edm=AP_V10EBAAAA&ccb=7-4&oh=aa523434fabc2418dd55fad5cfbef432&oe=619F8F37&_nc_sid=4f375e" Alt="perfil">
+ <img src="https://instagram.ftlc1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/248439028_1337465993356769_1240898899502381446_n.jpg?_nc_ht=instagram.ftlc1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=x86AOR9b1LYAX88lhvc&edm=AP_V10EBAAAA&ccb=7-4&oh=aa523434fabc2418dd55fad5cfbef432&oe=619F8F37&_nc_sid=4f375e" style="float:right;" Alt="perfil">
 
 ***
 <h2>Sobre mi</h2>
