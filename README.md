@@ -4,7 +4,7 @@
 
 ***
 Soy Ing. Sistemas de la Información y Comunicación. 👨‍💻
-Vamos a Desarrollar algo nuevo.
+Vamos a Desarrollar algo nuevo y dejar huella en el mundo.
 
 # habilidades 
 <ul>
@@ -20,8 +20,8 @@ Vamos a Desarrollar algo nuevo.
 # Me puede encontrar en:
 ***
 <ul>
-  <li>[Instagram](https://www.instagram.com/bemg_develop/?hl=es-la)</li>
-  <li>[Twitter](https://twitter.com/BemgDevelop)</li>
-  <li>[Linkedin](https://www.linkedin.com/in/brian-edrei-mart%C3%ADnez-garc%C3%ADa-4203311a1/)</li>
-  <li>[Youtube](https://www.youtube.com/channel/UC3kKfYQ3xQPVNSVOiidftcQ)</li>
+  <li><a href="https://www.instagram.com/bemg_develop/?hl=es-la">Instagram</a></li>
+  <li><a href="https://twitter.com/BemgDevelop">Twitter</a></li>
+  <li><a href="https://www.linkedin.com/in/brian-edrei-mart%C3%ADnez-garc%C3%ADa-4203311a1/">Linkedin</a></li>
+ <li><a href="https://www.youtube.com/channel/UC3kKfYQ3xQPVNSVOiidftcQ">Youtube</a></li>
 </ul>
