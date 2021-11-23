@@ -7,7 +7,7 @@ Soy Ing. Sistemas de la Información y Comunicación. 👨‍💻
 Vamos a Desarrollar algo nuevo y dejar huella en el mundo.
 
 <h2>Habilidades</h2>
-***
+
 <ul>
  <li> php 📦 </li>
  <li> Html 💀 </li>
@@ -19,7 +19,7 @@ Vamos a Desarrollar algo nuevo y dejar huella en el mundo.
  <li> MySQL 🐬 </li>
  </ul>
 <h2>Me puede encontrar en:</h2>
-***
+
 <ul>
   <li><a href="https://www.instagram.com/bemg_develop/?hl=es-la">Instagram</a></li>
   <li><a href="https://twitter.com/BemgDevelop">Twitter</a></li>
