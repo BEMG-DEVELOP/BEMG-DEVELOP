@@ -5,6 +5,8 @@
 ***
 <h2>Sobre mi</h2>
 Soy Ing. Sistemas de la Información y Comunicación. 👨‍💻  <br>
+Me gusta crear nuevas cosas, nunca dejar de aprender.
+
 Vamos a Desarrollar algo nuevo y dejar huella en el mundo.
 
 <h2>Habilidades</h2>
@@ -22,7 +24,7 @@ Vamos a Desarrollar algo nuevo y dejar huella en el mundo.
 <h2>Me puede encontrar en:</h2>
 
 <ul>
-  <li><a href="https://www.instagram.com/bemg_develop/?hl=es-la">Instagram</a></li>
+  <li><a href="https://www.instagram.com/bemg_develop/?hl=es-la">Instagram</a> <ion-icon name="logo-instagram"></ion-icon></li>
   <li><a href="https://twitter.com/BemgDevelop">Twitter</a></li>
   <li><a href="https://www.linkedin.com/in/brian-edrei-mart%C3%ADnez-garc%C3%ADa-4203311a1/">Linkedin</a></li>
  <li><a href="https://www.youtube.com/channel/UC3kKfYQ3xQPVNSVOiidftcQ">Youtube</a></li>
